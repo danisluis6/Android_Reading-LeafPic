@@ -40,7 +40,7 @@
 
 ## Configurate These Attributes In Android
 <p align="center">
-    <image src="https://github.com/danisluis7/Build-Project-One-MVP/blob/master/3.jpeg" alt="3.jpg"/>
+    <image src="https://github.com/danisluis7/Build-Project-One-MVP/blob/master/3.jpg" alt="3.jpg"/>
 </p>
 
 ## Using class Abstract in Android
