@@ -40,7 +40,7 @@
 
 ## Configurate These Attributes In Android
 <p align="center">
-    <image src="https://github.com/danisluis7/Build-Project-One-MVP/blob/master/3.jpeg" alt="3.jpeg"/>
+    <image src="https://github.com/danisluis7/Build-Project-One-MVP/blob/master/3.jpeg" alt="3.jpg"/>
 </p>
 
 ## Using class Abstract in Android
@@ -67,10 +67,6 @@
 ## Where is place to check permission
 
     + isDeviceInfoGranted specify what is it?
-<p align="center">
-    <image src="https://github.com/danisluis7/Build-Project-One-MVP/blob/master/9.png" alt="9.png"/>
-</p>
-
     + Final Class with method(static) to check permission and request permission for Activity
 
         public final class PermissionUtils {
